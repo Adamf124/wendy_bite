@@ -23,3 +23,16 @@ body {
 	padding: 50px;
 	text-align: center;
 }
+main h2 {
+	text-align: left;
+	font-family: arial;
+}
+main p {
+	padding: 5px;
+	font-size: 1.19em;
+	text-align: left;
+	font-family: Georgia, serif;
+    margin-top: 0;
+    margin-bottom: 27px;
+	line-height: 2;
+}
