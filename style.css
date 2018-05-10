@@ -36,3 +36,12 @@ main p {
     margin-bottom: 27px;
 	line-height: 2;
 }
+img {
+	width: 300px;
+	height: auto;
+	margin-left: 20px;
+    margin-bottom: 20px;
+	padding:5px;
+	border: solid 1px rgb(119,119,119);
+	float: right;
+}
