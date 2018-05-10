@@ -45,3 +45,19 @@ img {
 	border: solid 1px rgb(119,119,119);
 	float: right;
 }
+a {
+	font-weight: bold;
+	color: rgb(55, 180,132);
+}
+/* This almost slipped by me */
+a.active {
+	color: white;
+	text-decoration: none;
+}
+/* lol try again */
+footer {
+	padding-top: 20px;
+	border-top:solid 1px rgb(119,119,119);
+	/*text-align: center;*/
+
+}
