@@ -10,3 +10,16 @@ header h1 {
 	font-style: italic;
 	font-family: Georgia, serif;
 }
+body { 
+	line-height: 1.5;
+	font-family: Georgia, serif;
+	margin-top: 10px;
+	margin: 30px auto auto auto;
+	color: white;
+	width: 800px;
+	height:1024px;
+	background-color: rgb(68,68,68);
+	border: solid 5px rgb(119,119,119);
+	padding: 50px;
+	text-align: center;
+}
